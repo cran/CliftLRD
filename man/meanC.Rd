@@ -28,7 +28,7 @@ A numeric value corresponding to the average (modulus) squared detail coefficien
 }
 \references{
 Knight, M. I and Nunes, M. A. (2018) Long memory estimation for complex-valued time series. \emph{Stat. Comput. (to appear)}. Online First Article: 
-DOI \href{https://doi.org/10.1007/s11222-018-9820-8}{10.1007/s11222-018-9820-8}.
+DOI <doi:10.1007/s11222-018-9820-8>.
 }
 
 \author{

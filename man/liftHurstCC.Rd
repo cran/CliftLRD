@@ -37,8 +37,8 @@ A complex-valued time series, possibly irregularly spaced.
 	corresponding to the log2 of the dyadic wavelet scale, i.e an integer representing the scale.  
 }
   \item{altype}{An integer indicating which type of artificial levels to be used, see \cr 
-\code{\link{artificial.levels}}} for more information.
-  \item{tail}{A boolean variable indicating whether to amalgamate artificial levels with few coefficients, see \code{\link{artificial.levels}}} for more information.
+\code{\link[liftLRD]{artificial.levels}}} for more information.
+  \item{tail}{A boolean variable indicating whether to amalgamate artificial levels with few coefficients, see \code{\link[liftLRD]{artificial.levels}}} for more information.
   \item{normalise}{A boolean variable indicating whether to normalise the detail coefficients by their individual (induced) standard deviations (computed using the diagonal of the 
 	complex-valued lifting matrix, see Hamilton et al. (2017) or \code{\link[CNLTreg]{fwtnppermC}} for more details). 
 }
@@ -71,7 +71,7 @@ If \code{BHonly=FALSE}, the routine also returns the energies and scales (on a l
 }
 \references{
 Knight, M. I. and Nunes, M. A. (2018) Long memory estimation for complex-valued time series. \emph{Stat. Comput. (to appear)}. Online First Article: 
-DOI \href{https://doi.org/10.1007/s11222-018-9820-8}{10.1007/s11222-018-9820-8}.\cr
+DOI <doi:10.1007/s11222-018-9820-8>.\cr
 Hamilton, J., Nunes, M. A., Knight, M. I. and Fryzlewicz, P. (2017) Complex-valued lifting and applications. \emph{Technom.},\bold{60} (1), 48--60. \cr\cr
 
 For more details on the weighted linear regression and bias calculations, see e.g.\cr \cr
@@ -85,7 +85,7 @@ Matt Nunes, Marina Knight
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
-\code{\link{artificial.levels}}, \code{\link{Hfrombeta}}, \code{\link[CNLTreg]{fwtnppermC}}
+\code{\link[liftLRD]{artificial.levels}}, \code{\link[liftLRD]{Hfrombeta}}, \code{\link[CNLTreg]{fwtnppermC}}
 }
 \examples{
 

@@ -1,11 +1,11 @@
-4f481ca616dca42cb31e14d4f4c80970 *DESCRIPTION
+dbd5ef06c45ac6f7fe72d0bc90bb63e9 *DESCRIPTION
 46040fc788afb5e4893a70e7f2768672 *NAMESPACE
 4a21df0835ebdc9333b4faf3f87cda11 *R/liftHurstC.R
 adf2ce3e0603d6a1ca0db030b20bda1f *R/liftHurstCC.R
 165076700e63805475fc06a31c32473b *R/meanC.R
 c98031364f18fa9d1419fccf23801720 *R/meanmoC.R
 842cb113c09bba20dd4c3b5e2fc0fa4b *R/zzz.R
-91e006631facde201f6dc1e154eaa9d4 *man/CliftLRD-package.Rd
-1d67a7e005fc28334963eaec02ec5ab1 *man/liftHurstC.Rd
-7ee7f219490f2d1d7f8d1fee9d9e244d *man/liftHurstCC.Rd
-973393998cf9736e2d824cd7fa7be383 *man/meanC.Rd
+1c974034f9e3ffb3951ce6cab8d45a00 *man/CliftLRD-package.Rd
+133f0525db53262889b76372ab864f84 *man/liftHurstC.Rd
+f6255c79c56d8d35ed8c6272de1ca31a *man/liftHurstCC.Rd
+b7a145b022a1077ddd1207dd63a3ec0f *man/meanC.Rd
